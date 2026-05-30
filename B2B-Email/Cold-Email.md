@@ -1,9 +1,14 @@
 # Cold Email and B2B Outbound
-This chapter didn’t exist in v3 of this guide. That was an oversight. Cold email is one of the most powerful and most abused channels in B2B sales, and the gap between how it’s done well 
-and how it’s done badly is enormous. 
-I’d estimate that 90% of cold email is terrible, which is actually good news. If you do it properly, you’ll stand out simply by being competent.
 
-Let me be upfront about my position. Cold email, done ethically and well, is a legitimate sales channel that creates real value for both sender and recipient. 
+Cold email is one of the most powerful and most abused channels in B2B sales, and the gap between how it’s done well 
+and how it’s done badly is enormous. 
+
+I’d estimate that 90% of cold email is terrible, which is actually good news. 
+If you do it properly, you’ll stand out simply by being competent.
+
+Let me be upfront about my position. Cold email, done ethically and well, is a legitimate sales channel that creates 
+real value for both sender and recipient. 
+
 Cold email done badly is spam, regardless of what the sender calls it. 
 The distinction matters, and this chapter will be specific about where the line sits.
 
@@ -11,8 +16,10 @@ The distinction matters, and this chapter will be specific about where the line 
 Cold email is appropriate for B2B sales outreach to business contacts at their work email address. Full stop. It’s for reaching a VP of Marketing at a SaaS company because your product genuinely solves a problem they have. 
 It’s for connecting with a Head of Operations at a logistics company because you’ve identified an inefficiency your service addresses.
 
-It is not appropriate for consumer marketing to personal email addresses. It is not appropriate for mass outreach to purchased lists. It is not appropriate when your product has no 
-genuine connection to the recipient’s role or company. And it is never appropriate to use as a substitute for building a proper opt-in marketing list.
+It is not appropriate for consumer marketing to personal email addresses. 
+It is not appropriate for mass outreach to purchased lists. 
+It is not appropriate when your product has no genuine connection to the recipient’s role or company. 
+And it is never appropriate to use as a substitute for building a proper opt-in marketing list.
 
 The difference between cold email and spam is not a legal technicality. It’s a practical one.
 
@@ -20,13 +27,17 @@ The difference between cold email and spam is not a legal technicality. It’s a
 It’s personalised to show you’ve done research. It offers genuine value, not just a pitch. 
 It respects opt-outs immediately. And it’s sent in reasonable volume to a curated list.
 
-Spam is everything else. 
-Blasted to thousands. Generic. Self-serving. Sent from dodgy domains. 
-Ignoring unsubscribes. Volume-driven.
+***Spam is everything else.*** 
+- Blasted to thousands.
+- Generic. Self-serving. S
+- ent from dodgy domains.
+- Ignoring unsubscribes.
+- Volume-driven.
 
 **I’d offer this test:** if you’d be embarrassed seeing your email screenshot on LinkedIn with the caption ‘Got this today’, rewrite it. 
 Your market is finite. The Head of Marketing at Company X who sees your lazy template today is the same person you’ll try to sell to next 
 quarter. 
+
 **First impressions in cold email are usually the only impression you get.**
 
 ### Infrastructure Setup
